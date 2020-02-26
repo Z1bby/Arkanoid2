@@ -1,0 +1,60 @@
+level1:
+88		// tile_char
+7f		// tile_color
+80		// background_color
+35		// border_char
+70		// border_color
+91		// platform_char_left
+61		// platform_char_mid
+93		// platform_char_right
+f0		// platform_color
+79		// ball_char
+8f		// ball_color
+level2:
+176		// tile_char
+3b		// tile_color
+10		// background_color
+35		// border_char
+30		// border_color
+174		// platform_char_left
+45		// platform_char_mid
+175		// platform_char_right
+b0		// platform_color
+111		// ball_char
+1f		// ball_color
+level3:
+4		// tile_char
+a0		// tile_color
+20		// background_color
+35		// border_char
+a0		// border_color
+17		// platform_char_left
+223		// platform_char_mid
+16		// platform_char_right
+a0		// platform_color
+79		// ball_char
+2a		// ball_color
+level4:
+177		// tile_char
+0c		// tile_color
+50		// background_color
+35		// border_char
+04		// border_color
+201		// platform_char_left
+205		// platform_char_mid
+187		// platform_char_right
+0c		// platform_color
+64		// ball_char
+5c		// ball_color
+level5:
+178		// tile_char
+e6		// tile_color
+60		// background_color
+35		// border_char
+e0		// border_color
+30		// platform_char_left
+31		// platform_char_mid
+30		// platform_char_right
+e0		// platform_color
+15		// ball_char
+6e		// ball_color

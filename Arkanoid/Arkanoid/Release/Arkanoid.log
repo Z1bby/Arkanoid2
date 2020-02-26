@@ -1,0 +1,10 @@
+﻿  Assembling some_functions.asm...
+  Assembling Source.asm...
+  helpme.cpp
+c:\users\user\documents\it\mostofficialprograms\011_arkanoid_v2\arkanoid\arkanoid\helpme.cpp(9): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Generating code
+  0 of 0 functions (<0.1%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Arkanoid.vcxproj -> C:\Users\User\Documents\IT\MostOfficialPrograms\011_Arkanoid_v2\Arkanoid\Release\Arkanoid.exe
